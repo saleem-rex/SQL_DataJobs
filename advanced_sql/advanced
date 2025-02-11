@@ -334,4 +334,4 @@ ORDER BY
 
 
 select * from Junuary_jobs;
-select * from job_postings_fact limit 5;  
+select * from job_postings_fact limit 5;
